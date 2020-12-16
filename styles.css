@@ -4,6 +4,7 @@
 
 .page {
     text-align: center;
+    color: #fff;
 }
 
 .genshin-logo {
@@ -11,7 +12,10 @@
 }
 
 .page-title {
-    color: #fff;
     font-family: "Lucida Grande", "Lucida Sans Unicode", "Arial", "Helvetica", "sans-serif";
     text-transform: uppercase;
+}
+
+.daily-row {
+    color: #5EB3BC;   
 }
