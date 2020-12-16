@@ -15,6 +15,7 @@
 }
 
 .page-title {
+    margin: 0 auto;
     color: #fff;
     font-family: "Lucida Grande", "Lucida Sans Unicode", "Arial", "Helvetica", "sans-serif";
     text-transform: uppercase;
