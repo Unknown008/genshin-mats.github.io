@@ -6,6 +6,7 @@
     text-align: center;
     color: #fff;
     font-family: "Lucida Grande", "Lucida Sans Unicode", "Arial", "Helvetica", "sans-serif";
+    padding: 0 20px;
 }
 
 .genshin-logo {
@@ -14,7 +15,7 @@
 
 .page-title {
     text-transform: uppercase;
-    margin: 20px auto 20px;
+    margin: 20px auto 10px;
 }
 
 .day-row {
@@ -31,13 +32,78 @@
 }
 
 .weapon-row .section {
-    padding-top: 40px;
+    padding-top: 50px;
 }
 
 .floating-title {
     position: absolute;
+    left: 0;
+    margin: 0;
+    padding: 20px 0 0 0;
 }
 
 .table-header {
     padding: 10px 0 0 0;
+}
+
+fieldset {
+    border-width: 1px 0 0 0 !important;
+    border-top: #fff solid !important;
+}
+
+legend {
+    float: none !important;
+    width: auto !important;
+    padding: 0 20px !important;
+}
+
+.weapon-block {
+    margin: 30px 20px 0;
+    overflow: hidden;
+    white-space: nowrap;
+}
+
+.mat-row {
+    height: 120px;
+}
+
+.mat {
+    max-width: 100px;
+    max-height: 100px;
+    margin-bottom: 10px;
+    position: relative;
+}
+
+.green-mat {
+    left: 12%;
+}
+
+.blue-mat {
+    left: 4%;
+}
+
+.purple-mat {
+    right: 4%;
+}
+
+.gold-mat {
+    right: 12%;
+}
+
+.talent-row .section {
+    padding-top: 50px;
+}
+
+.char-block {
+    margin: 30px 20px 0;
+}
+
+.char {
+    max-width: 70px;
+    max-height: 70px;
+    margin: 10px;
+}
+
+.char-row {
+    height: 100%
 }
