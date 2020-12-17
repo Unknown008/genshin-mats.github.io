@@ -15,4 +15,4 @@ A: Sunday is a weird day in Genshin Impact. The domains that usually drop one ty
 A: Traveller (MC) requires a lot of books from different regions depending on the element he/she is in. For example, Anemo traveller requires 3 Green Freedom books to upgrade level 1 talents, but 2 Blue Resistance books to upgrade level 2 talents.
 
 **Q: Can you show the weapons instead?**  
-A: That will be hard without making the page become huge. Different weapons require different materials even in the same category. For example, Prototype Aminus requires Aerosite, but Wolf's Gravestone requires Shackles.
+A: That will be hard without making the page become huge. Different weapons require different materials even in the same category. For example, Prototype Aminus requires Aerosite, but Wolf's Gravestone requires Shackles, even if both are Claymores.
